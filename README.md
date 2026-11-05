@@ -1,2 +1,2 @@
 # GlowUp-website
-A simple and attractive one-page Beauty ana skincare website created using HTML
+A simple and attractive one-page Beauty and skincare website created using HTML
